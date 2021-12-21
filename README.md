@@ -1,0 +1,2 @@
+# ymgk-proje
+fotograf sifreleme
